@@ -1,3 +1,5 @@
+# não consegui executar, fazer testes ainda para averiguar o problema
+
 import pandas as pd
 import pandas_profiling
 import streamlit as st
